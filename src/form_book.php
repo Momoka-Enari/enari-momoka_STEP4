@@ -9,8 +9,8 @@
     <h1>図書貸出申請フォーム</h1>
     <form action="confirm_book.php" method="post">
 <div>
-    <label for="name">利用者名:</label><br>
-    <input type="text" id="name" name="name" required>
+    <label for="username">利用者名:</label><br>
+    <input type="text" id="username" name="username" required>
 </div>
 <div>
     <label for="bookTitle">書籍タイトル:</label><br>

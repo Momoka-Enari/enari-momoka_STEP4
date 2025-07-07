@@ -6,5 +6,5 @@ $fruits = array("apple", "banana", "orange", "grape");
 unset($fruits[2]);
 
 //出力
-print_r($fruits)
+print_r($fruits);
 ?>
